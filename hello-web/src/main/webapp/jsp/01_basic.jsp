@@ -50,7 +50,7 @@
 
     <h2>1 ~ 100까지의 합</h2>
     <p id="sumFromServer"><%= sum %></p>
-    <p id="sumFromServer">${sum}</p>
+    <p id="sumFromServer">${sum}</p>S
     <p id="sumFromClient"></p>
 
     <h2>현재시각 (밀리초)</h2>
